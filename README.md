@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+Meu nome é Bruna Osti, (quase) engenheira de computação e apaixonada por desenvolvimento.
+
+:octocat: Trabalhando como estagiária de engenharia de processamento de sinais na Embraer (Campinas)
+:telescope: Apaixonada por Inteligência artificial, Processamento de sinais e Desenvolvimento.
+:ledger: Estudando sobre automatização de sistemas e data science.
 
 <!--
 **brunaostii/brunaostii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
