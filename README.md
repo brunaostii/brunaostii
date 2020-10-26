@@ -1,9 +1,9 @@
 ### Olá 👋
 
-Meu nome é Bruna Osti, (quase) engenheira de computação e apaixonada por desenvolvimento. <br>
+Meu nome é Bruna Osti, engenheira de computação pela Universidade Tecnológica Federal do Paraná (12/2020), atualmente:
 
 :octocat: Trabalhando como estagiária de engenharia de processamento de sinais na Embraer (Campinas - antiga OrbiSat). <br>
-:telescope:  Apaixonada por Inteligência artificial, Processamento de sinais e Desenvolvimento. <br>
+:telescope:  Interessada por Inteligência artificial, Processamento de sinais e Desenvolvimento. <br>
 :ledger:  Estudando sobre automatização de sistemas e data science.<br> 
 <br>
 
