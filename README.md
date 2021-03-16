@@ -2,7 +2,7 @@
 
 Meu nome é Bruna Osti, engenheira de computação pela Universidade Tecnológica Federal do Paraná (11/2020), atualmente:
 
-:octocat: Trabalhando como Pesquisadora Consultora de Segurança de Software JR na Sidi (Samsung Instituto de Desenvolvimento para Informática - Campinas/SP). <br>
+:octocat: Trabalhando como Pesquisadora de Machine Learning JR no Sidi (Samsung Instituto de Desenvolvimento para Informática - Campinas/SP). <br>
 :briefcase:  Ex-estagiária de engenharia de processamento de sinais na Embraer (antiga OrbiSat - Campinas/SP). <br>
 :telescope:  Interessada por Inteligência artificial, Processamento de sinais e Desenvolvimento. <br>
 <br>
