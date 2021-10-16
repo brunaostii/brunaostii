@@ -3,7 +3,7 @@
 I'm Bruna Osti, Data Scientist with experience in research and development (r&d),  artificial intelligence, and signal processing.  Skilled researcher, developer, analytical thinker, team player, self-learner on all things tech-related, very curious and passionate about artificial intelligence and automation.
 
 :briefcase: Data Scientist at SiDi (Campinas/SP). <br>
-:mortar_board: Computer engeneering by UTFPR (2020) <br>
+:mortar_board: Computer engineering by UTFPR (2020) <br>
 :telescope:  Passionate about R&D, Artificial intelligence and Automation. <br>
 <br>
 
