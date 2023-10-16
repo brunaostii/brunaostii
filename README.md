@@ -1,6 +1,8 @@
 ### Hello 👋
 
-I'm Bruna Osti, Data Scientist with experience in research and development (r&d),  artificial intelligence, and signal processing.  Skilled researcher, developer, analytical thinker, team player, self-learner on all things tech-related, very curious and passionate about artificial intelligence and automation.
+I have two years of experience in data science and my main responsibilities include research and development (R&D), with expertise in Python, EDA, machine learning, deep learning, and computer vision. I'm presently enrolled in UNICAMP's Master's program in Computer Science focused on applying causality for domain generalization and I'm a member of Recod.ai (Artificial Intelligence Lab).
+
+I have a strong foundation in statistics and data analysis, I thrive on solving complex problems and turning raw data into actionable insights. My machine learning and deep learning expertise allow me to create powerful models that can handle large and complex datasets. At the same time, my knowledge of computer vision enables me to develop innovative solutions for image analysis. Whether developing predictive models, conducting EDA, or working on cutting-edge computer vision projects, I am committed to delivering results that make a real impact.
 
 :briefcase: Data Scientist ML at SiDi (Campinas/SP) <br>
 :memo: Master's Student at Unicamp (Currently) <br>
