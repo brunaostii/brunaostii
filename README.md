@@ -4,7 +4,7 @@ I have two years of experience in data science and my main responsibilities incl
 
 I have a strong foundation in statistics and data analysis, I thrive on solving complex problems and turning raw data into actionable insights. My machine learning and deep learning expertise allow me to create powerful models that can handle large and complex datasets. At the same time, my knowledge of computer vision enables me to develop innovative solutions for image analysis. Whether developing predictive models, conducting EDA, or working on cutting-edge computer vision projects, I am committed to delivering results that make a real impact.
 
-:briefcase: Data Scientist ML at SiDi (Campinas/SP) <br>
+:briefcase: SR Data Scientist at iFOOD (Campinas/SP) <br>
 :memo: Master's Student at Unicamp (Currently) <br>
 :mortar_board: Computer engineering by UTFPR (2020) <br>
 :telescope:  Passionate about R&D, Artificial intelligence and Automation. <br>
